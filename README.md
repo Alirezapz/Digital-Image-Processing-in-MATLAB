@@ -8,7 +8,6 @@ Built as part of the Digital Signal Processing laboratory course at Amirkabir Un
 
 - `EXP4_Image_Processing.m` — main script, organized into 5 independent sections
 - `lena.bmp`, `Image02.jpg` — sample images used by the script
-- `figures/` — example output figures (optional, see below)
 
 ## Topics Covered
 
