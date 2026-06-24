@@ -50,8 +50,9 @@ All figures are generated and displayed as the script runs; a short text summary
 
 | Salt & pepper noise removal (median filter) | Antialiasing before downsampling |
 |---|---|
-| ![median filter]<img width="1773" height="510" alt="median_filter_example" src="https://github.com/user-attachments/assets/26902934-833f-4d67-8748-7d518cb05ffa" />
-| ![antialiasing](<img width="1451" height="526" alt="antialiasing_example" src="https://github.com/user-attachments/assets/6aea887f-60b6-43ed-abce-e15009f0cff3" />|
+| <img width="1773" height="510" alt="median_filter_example" src="https://github.com/user-attachments/assets/c8bebc4d-0491-459f-b64f-be001df9d335" />
+ | <img width="1451" height="526" alt="antialiasing_example" src="https://github.com/user-attachments/assets/5f29d71e-1fdb-4757-9853-47c5c0db9b4b" />
+ |
 
 *(see `figures/` for the full set of example outputs)*
 
