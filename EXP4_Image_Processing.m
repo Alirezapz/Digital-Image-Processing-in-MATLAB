@@ -1,4 +1,9 @@
-%% DSP Lab - Experiment 4 (Image Processing)
+%% =========================================================================
+%  DSP Laboratory - Experiment 4: Introduction to Image Processing
+%  Amirkabir University of Technology (Tehran Polytechnic)
+%  Student : Alireza Pazouki
+%  ID      : 40023096
+%  =========================================================================
 % Sections: 1) basics/histograms  2) denoising  3) wavelets
 %           4) motion blur + Wiener  5) antialiasing/downsampling
 %
